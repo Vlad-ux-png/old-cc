@@ -7,3 +7,5 @@ These are not capable of being compiled today with modern c compilers like gcc. 
 
 
 Source: [http://cm.bell-labs.com/cm/cs/who/dmr/primevalC.html]
+
+Mirror of: [https://github.com/zavg/legacy-cc]
